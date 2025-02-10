@@ -1,5 +1,4 @@
-
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -10,10 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: sachindra55
-          svg_output_path: dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          svg_output_path: assets/github-snake.svg
+
+      - name: Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update snake diagram"
+          git push
