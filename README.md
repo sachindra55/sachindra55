@@ -59,6 +59,8 @@
 
 [![Contribution Snake](https://raw.githubusercontent.com/sachindra55/sachindra55/output/github-contribution-grid-snake.svg)](https://github.com/sachindra55)
 
+[![Contribution Snake](https://raw.githubusercontent.com/sachindra55/sachindra55/main/assets/github-snake.svg)](https://github.com/sachindra55)
+
 ---
 
 ### 📬 **Connect with the Artist**
