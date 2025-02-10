@@ -92,4 +92,10 @@
 | Pixel Purple  | ![#9B59B6](https://via.placeholder.com/15/9B59B6/000000?text=+) `#9B59B6` |
 | Neon Green    | ![#2ECC71](https://via.placeholder.com/15/2ECC71/000000?text=+) `#2ECC71` |
 
+
+
+href="https://twitter.com/yourhandle" → Your Twitter
+href="https://www.linkedin.com/in/yourprofile" → Your LinkedIn
+href="https://www.artstation.com/yourprofile" → Your ArtStation
+
 </details>
