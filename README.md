@@ -97,7 +97,7 @@
 
 
 href="https://twitter.com/yourhandle" → Your Twitter
-href="https://www.linkedin.com/in/yourprofile" → Your LinkedIn
+href="https://www.linkedin.com" → Your LinkedIn
 href="https://www.artstation.com/yourprofile" → Your ArtStation
 
 </details>
