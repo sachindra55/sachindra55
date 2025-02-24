@@ -45,7 +45,7 @@
 
 ---
 
-### 📬 **Connect with the Artist**
+### 📬 **Connect with me**
 
 <div align="center">
 
