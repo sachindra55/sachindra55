@@ -1,14 +1,4 @@
-[![Digital Art Banner](https://i.postimg.cc/4dyB4kDw/20230523-132721.jpg)](https://postimg.cc/JDwbKg4B)
 
-<h1 align="center"> 🎨⚡️ Welcome to <span style="color: #FF6B6B">Sachindra's</span> Creative Hub</h1>
-
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Code Art">
-  <br>
-  <p>🔮 <em>Transforming Pixels into Experiences</em> 🔮</p>
-</div>
-
----
 
 ### 🛠️ **Developer's Palette**
 
