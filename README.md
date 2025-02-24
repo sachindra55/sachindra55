@@ -48,15 +48,11 @@
 ### 📬 **Connect with the Artist**
 
 <div align="center">
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com">
+
+  <a href="https://www.linkedin.com/in/sachindra-chaudhary-b0a925231/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.artstation.com">
-    <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white">
-  </a>
+
 </div>
 
 ---
