@@ -23,14 +23,6 @@
 
 ---
 
-### 🎭 **Creative Showcase**
-
-| Code Projects | UI Designs | Digital Art |
-|---------------|------------|-------------|
-| [![Project 1](https://via.placeholder.com/150/FF6B6B/FFFFFF?text=Web+App)](https://github.com/sachindra55) | [![Design 1](https://via.placeholder.com/150/4ECDC4/FFFFFF?text=UI+Design)](https://github.com/sachindra55) | [![Art 1](https://via.placeholder.com/150/FFE66D/000000?text=Artwork)](https://github.com/sachindra55) |
-
----
-
 ### 📊 **Code Canvas Stats**
 
 ```text
